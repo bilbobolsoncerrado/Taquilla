@@ -6,6 +6,7 @@ public class prueba {
 		// TODO Auto-generated method stub
 		int contador;
 		String nombre;
+
 	}
 
 }
